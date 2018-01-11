@@ -1,4 +1,6 @@
 # Telegram Kraken Bot
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBill-Niz%2FTelegram-Kraken-Bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBill-Niz%2FTelegram-Kraken-Bot?ref=badge_shield)
+
 Python 3 bot to trade on Kraken via Telegram messanger
 
 <p align="center">
@@ -190,3 +192,6 @@ If you find __Telegram-Kraken-Bot__ suitable for your needs or maybe even made s
 ```
 44U9LPxGJimEtRzntsW3vuUpdkAEKWWLe5VYjGrq5vqGQoJdi8e3fKP1U9h8z8xJFxVMPtx2NpvYB6bbSXVjd8KJHjGH34X
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBill-Niz%2FTelegram-Kraken-Bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBill-Niz%2FTelegram-Kraken-Bot?ref=badge_large)
